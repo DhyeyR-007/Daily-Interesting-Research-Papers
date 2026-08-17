@@ -7,11 +7,11 @@
 
 - **P3CA: Encoder-Agnostic Interpretation of Vision Foundation Model Embeddings via Spatial Probing:** Foundation models provide embeddings with hundreds of channels per pixel/patch and normally the only way to "see" what's in there is either (a) look at overall task performance, or (b) do one global PCA over the whole image. But global PCA gets dominated by whatever varies most across the whole image, usually big obvious stuff like background vs. foreground. Anything subtle that only matters in one small region (like fine texture inside a tumor, or a specific cell type) gets drowned out and never shows up in the top components. By computing PCA only inside the region you clicked, you find the feature directions that are actually meaningful for that specific structure, even if that structure is a tiny fraction of the whole image and would never surface in a global PCA. Then when you project that direction back over the full image or all the patches of the image, you get a map showing everywhere else the model's internal features look similar to your region of interest.
    
-- Class-Modulated Top-𝐾 Logit Adjustment for long-tailed visual recognition
-- Plug-and-Play Reweighting for Resilient Collaborative Decision-Making in Connected Autonomous Driving
-- SearchAD: Large-Scale Rare Image Retrieval Dataset for Autonomous Driving
-- Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition
-- Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference.
+- **Class-Modulated Top-𝐾 Logit Adjustment for long-tailed visual recognition**
+- **Plug-and-Play Reweighting for Resilient Collaborative Decision-Making in Connected Autonomous Driving**
+- **SearchAD: Large-Scale Rare Image Retrieval Dataset for Autonomous Driving**
+- **Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition**
+- **Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference**
 
 ## Place Recognition-specific papers:
 
