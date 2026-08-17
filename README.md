@@ -5,11 +5,12 @@
 
 ## Interesting papers:
 
-1. Class-Modulated Top-𝐾 Logit Adjustment for long-tailed visual recognition
-2. Plug-and-Play Reweighting for Resilient Collaborative Decision-Making in Connected Autonomous Driving
-3. SearchAD: Large-Scale Rare Image Retrieval Dataset for Autonomous Driving
-4. Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition
-5. Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference.
+1. **P3CA: Encoder-Agnostic Interpretation of Vision Foundation Model Embeddings via Spatial Probing**
+2. Class-Modulated Top-𝐾 Logit Adjustment for long-tailed visual recognition
+3. Plug-and-Play Reweighting for Resilient Collaborative Decision-Making in Connected Autonomous Driving
+4. SearchAD: Large-Scale Rare Image Retrieval Dataset for Autonomous Driving
+5. Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition
+6. Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference.
 
 ## Place Recognition-specific papers:
 
